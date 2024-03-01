@@ -38,8 +38,13 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 ## THREE.js code 
 [https://furkathertaha.github.io/assets/threeJS/sf/test2.js](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
 ## GL shader code 
-[Dragon](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json)
-[Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json) [Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json)
+[Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_copper.json)`  `
+[Dragon body](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json)`  `
+[Dragon claw](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_red.json)`  `
+[Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json)`  `
+[Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json)`  `
+[Background](https://furkathertaha.github.io/assets/threeJS/sf/Star_Field.json)`  `
+[Robotic metal](https://furkathertaha.github.io/assets/threeJS/sf/Funny_Bunny.json)
 ## models (STL)
 [Markdown语法](https://markdown.com.cn)
 ## textures 
