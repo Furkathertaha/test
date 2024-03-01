@@ -32,11 +32,22 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 ### Standard
 * ES6 
 
+
+## Project 
+[project link](https://furkathertaha.github.io/assets/threeJS/sf/long2.html)
+## THREE.js code 
+[threeJS link](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
+## GL shader code 
+[Markdown语法](https://furkathertaha.github.io/assets/threeJS/sf/)
+## models (STL)
+[Markdown语法](https://markdown.com.cn)
+## textures 
+
  
 ## Demo
 
-<img src="https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/demo.gif" alt="demo1" width="360" height="360" /> <img src="https://github.com/Furkath/DRL_controlled_fluid-rigid_simulation/blob/master/demos/trained.gif" alt="demo2" width="360" height="360" /> 
+<img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.gif" alt="demo1" width="450"  /> `    ` <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.gif" alt="demo2" width="450"  /> 
 
 -Screen Shots:
 
-<img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.png" alt="demo3" width="400" />  `    `    <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.png" alt="demo4" width="400"  />
+<img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.png" alt="demo3" width="400" />  `    `   <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.png" alt="demo4" width="400"  />
