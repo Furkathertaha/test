@@ -6,8 +6,8 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 
 - [Features](#features)
 - [Dependency](#Dependency) 
-<!-- - [Usage](#usage) -->
 - [Demo](#demo)
+<!-- - [Usage](#usage) -->
 <!-- [Contributing](#contributing) -->
 <!-- [License](#license) -->
 <!-- [Acknowledgements](#acknowledgements) -->
