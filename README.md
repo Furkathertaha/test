@@ -40,13 +40,13 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [https://furkathertaha.github.io/assets/threeJS/sf/test2.js](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
 ## GL shader code (GLSL)
 
-[Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json)    
-[Dragon body](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_copper.json)    
-[Dragon claw](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_red.json)    
-[Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json)    
-[Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json)    
-[Background](https://furkathertaha.github.io/assets/threeJS/sf/Star_Field.json)    
-[Cosmic dust](https://furkathertaha.github.io/assets/threeJS/sf/dash/0.json)    
+[Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json) &emsp
+[Dragon body](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_copper.json) &emsp
+[Dragon claw](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_red.json) &emsp
+[Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json) &emsp
+[Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json) &emsp
+[Background](https://furkathertaha.github.io/assets/threeJS/sf/Star_Field.json) &emsp
+[Cosmic dust](https://furkathertaha.github.io/assets/threeJS/sf/dash/0.json) &emsp
 [Robotic metal](https://furkathertaha.github.io/assets/threeJS/sf/Funny_Bunny.json)
 
 ## models (STL)
