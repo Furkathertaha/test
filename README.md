@@ -44,11 +44,15 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json)`  `
 [Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json)`  `
 [Background](https://furkathertaha.github.io/assets/threeJS/sf/Star_Field.json)`  `
+[Cosmic dust](https://github.com/Furkathertaha/Furkathertaha.github.io/blob/main/assets/threeJS/sf/dash/0.json)`  `
 [Robotic metal](https://furkathertaha.github.io/assets/threeJS/sf/Funny_Bunny.json)
 ## models (STL)
-[Markdown语法](https://markdown.com.cn)
+[Dragon Head](https://furkathertaha.github.io/assets/threeJS/sf/tou.stl)`  `
+[Dragon Body](https://furkathertaha.github.io/assets/threeJS/sf/bodyy.stl)`  `
+[Dragon Claw](https://furkathertaha.github.io/assets/threeJS/sf/jiao.json)`  `
+[Dragon Tail](https://furkathertaha.github.io/assets/threeJS/sf/wei.json)
 ## textures 
-
+[Cosmic Dust](https://furkathertaha.github.io/assets/threeJS/sf/thumb_contrast-noise.png)
  
 ## Demo
 
