@@ -35,9 +35,10 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 
 ## Project 
 [https://furkathertaha.github.io/assets/threeJS/sf/long2.html](https://furkathertaha.github.io/assets/threeJS/sf/long2.html)
+
 ## THREE.js code 
 [https://furkathertaha.github.io/assets/threeJS/sf/test2.js](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
-## GL shader code 
+## GL shader code (GLSL)
 [Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json)`  `
 [Dragon body](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_copper.json)`  `
 [Dragon claw](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_red.json)`  `
@@ -51,12 +52,16 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Dragon Body](https://furkathertaha.github.io/assets/threeJS/sf/bodyy.stl)`  `
 [Dragon Claw](https://furkathertaha.github.io/assets/threeJS/sf/jiao.stl)`  `
 [Dragon Tail](https://furkathertaha.github.io/assets/threeJS/sf/wei.stl)
-## textures 
+## textures (png)
 [Cosmic Dust](https://furkathertaha.github.io/assets/threeJS/sf/thumb_contrast-noise.png)
+
 ## Video (mp4)
 [screengrab1](https://furkathertaha.github.io/assets/videos/long2.mp4)
 [screengrab2](https://furkathertaha.github.io/assets/videos/long1.mp4)
 
+## Presentation (pdf)
+[presentation]()
+[document]()
  
 ## Demo
 
