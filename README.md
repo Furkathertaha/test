@@ -34,11 +34,12 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 
 
 ## Project 
-[project link](https://furkathertaha.github.io/assets/threeJS/sf/long2.html)
+[https://furkathertaha.github.io/assets/threeJS/sf/long2.html](https://furkathertaha.github.io/assets/threeJS/sf/long2.html)
 ## THREE.js code 
-[threeJS link](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
+[https://furkathertaha.github.io/assets/threeJS/sf/test2.js](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
 ## GL shader code 
-[Markdown语法](https://furkathertaha.github.io/assets/threeJS/sf/)
+[Dragon](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json)
+[Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json) [Star2](https://furkathertaha.github.io/assets/threeJS/sf/Sun.json)
 ## models (STL)
 [Markdown语法](https://markdown.com.cn)
 ## textures 
