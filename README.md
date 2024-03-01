@@ -5,7 +5,7 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 ## Table of Contents
 
 - [Features](#features)
-- [Dependency](#Dependency) 
+- [Dependency](#dependency) 
 - [Demo](#demo)
 <!-- - [Usage](#usage) -->
 <!-- [Contributing](#contributing) -->
@@ -48,9 +48,9 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Cosmic dust](https://furkathertaha.github.io/assets/threeJS/sf/dash/0.json)`  `
 [Robotic metal](https://furkathertaha.github.io/assets/threeJS/sf/Funny_Bunny.json)
 ## models (STL)
-[Dragon Head](https://furkathertaha.github.io/assets/threeJS/sf/tou.stl)`  `
-[Dragon Body](https://furkathertaha.github.io/assets/threeJS/sf/bodyy.stl)`  `
-[Dragon Claw](https://furkathertaha.github.io/assets/threeJS/sf/jiao.stl)`  `
+[Dragon Head](https://furkathertaha.github.io/assets/threeJS/sf/tou.stl) $~~~$
+[Dragon Body](https://furkathertaha.github.io/assets/threeJS/sf/bodyy.stl) $~~~$
+[Dragon Claw](https://furkathertaha.github.io/assets/threeJS/sf/jiao.stl) $~~~$
 [Dragon Tail](https://furkathertaha.github.io/assets/threeJS/sf/wei.stl)
 ## textures (png)
 [Cosmic Dust](https://furkathertaha.github.io/assets/threeJS/sf/thumb_contrast-noise.png)
