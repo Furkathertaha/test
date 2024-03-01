@@ -53,6 +53,10 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Dragon Tail](https://furkathertaha.github.io/assets/threeJS/sf/wei.stl)
 ## textures 
 [Cosmic Dust](https://furkathertaha.github.io/assets/threeJS/sf/thumb_contrast-noise.png)
+## Video (mp4)
+[screengrab1](https://furkathertaha.github.io/assets/videos/long2.mp4)
+[screengrab2](https://furkathertaha.github.io/assets/videos/long1.mp4)
+
  
 ## Demo
 
