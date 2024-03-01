@@ -39,8 +39,8 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 ## THREE.js code 
 [https://furkathertaha.github.io/assets/threeJS/sf/test2.js](https://furkathertaha.github.io/assets/threeJS/sf/test2.js)
 ## GL shader code (GLSL)
-<p>
-[Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json) &emsp
+
+[Dragon head & tail](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF.json) <p>&emsp<\p>
 [Dragon body](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_copper.json) &emsp
 [Dragon claw](https://furkathertaha.github.io/assets/threeJS/sf/MeronSoda_s_BRDF_red.json) &emsp
 [Star1](https://furkathertaha.github.io/assets/threeJS/sf/Fork_of_New_Composed_Shader.json) &emsp
@@ -48,7 +48,7 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Background](https://furkathertaha.github.io/assets/threeJS/sf/Star_Field.json) &emsp
 [Cosmic dust](https://furkathertaha.github.io/assets/threeJS/sf/dash/0.json) &emsp
 [Robotic metal](https://furkathertaha.github.io/assets/threeJS/sf/Funny_Bunny.json)
-</p>
+
 ## models (STL)
 [Dragon Head](https://furkathertaha.github.io/assets/threeJS/sf/tou.stl) $~~~$
 [Dragon Body](https://furkathertaha.github.io/assets/threeJS/sf/bodyy.stl) $~~~$
