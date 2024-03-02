@@ -59,11 +59,11 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 [Cosmic Dust](https://furkathertaha.github.io/assets/threeJS/sf/thumb_contrast-noise.png)
 
 ## Video (mp4)
-[screengrab1](https://furkathertaha.github.io/assets/videos/long2.mp4)
+[screengrab1](https://furkathertaha.github.io/assets/videos/long2.mp4) `   `
 [screengrab2](https://furkathertaha.github.io/assets/videos/long1.mp4)
 
 ## Presentation (pdf)
-[presentation]()
+[presentation]() `   `
 [document]()
 ##
 
@@ -81,4 +81,4 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 
 -Screen Shots:
 
-`        ` <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.png" alt="demo3" width="400" />  `     `   <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.png" alt="demo4" width="400"  />
+<img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.png" alt="demo3" width="400" />  `     `   <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.png" alt="demo4" width="400"  />
