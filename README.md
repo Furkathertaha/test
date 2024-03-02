@@ -68,6 +68,8 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 ##
 
 <span style="font-size: 20px;">[My GitHub Projects!](https://github.com/Furkath)</span>
+
+<a style="font-size: 30px;" href="https://github.com/Furkath">My GitHub Projects!</a>
  
 ## Demo
 
