@@ -10,6 +10,8 @@ $$[L]=[F][L_0] ~~and~~ [L']=[F'][L_0] \rightarrow [dL]=[dF][L_0]$$
 
 $$[dL]=[dF][L_0]=[\frac{\partial F}{\partial x}][dx]^\mathsf{T}[L_0]$$
 
+However, it should hold that $$[dL] = [dx],$$ so $$[\frac{\partial F}{\partial x}] = \frac{[dx]}{\vec{dx}\cdot\vec{L_0}}$$
+
 
 
 
