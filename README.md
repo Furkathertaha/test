@@ -1,8 +1,8 @@
 # Games201 Notes
 
-For PK1 stress, it has the definition that $$df=[PK_1] \circ [n_0] \cdot dA$$ on a give surface with respect to initial rest state.
+For PK1 stress, it has the definition that $$[df]=[PK_1] \circ [n_0] \cdot dA$$ on a give surface with respect to initial rest state.
 
-Meanwhile, $$dE = \vec{df} \cdot \vec{dx} $$, so $$df = [\frac{\partial E}{\partial F}] \circ [\frac{\partial F}{\partial x}$$.
+Meanwhile, $$dE = \vec{df} \cdot \vec{dx},$$ so $$[df] = [\frac{\partial E}{\partial F}] \circ [\frac{\partial F}{\partial x}]=[PK_1] \circ [\frac{\partial F}{\partial x}].$$
 
 <!--
 # SPACE STYLE DRAGON SCENE ANIMATION
