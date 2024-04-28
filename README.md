@@ -14,7 +14,7 @@ However, it should hold that $$[dL] = [dx],$$ thinking about the surface deforma
 
 So $$[\frac{\partial F}{\partial x}] = \frac{[dx]}{\vec{dx}\cdot\vec{L_0}}.$$
 
-For $$dV_0/dA_0 = L_0,$$ only if $$[dx]$$ in the same direction as $$[n_0]$$ can (1) holds,  think about why?
+When $$dV_0/dA_0 = |L_0| ([L_0]=|L_0|[n_0]$$ so that it gives correct volume), only if $$[dx]$$ in the same direction as $$[n_0]$$ can (1) holds,  think about why?
 
 
 
