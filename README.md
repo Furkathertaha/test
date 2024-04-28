@@ -2,7 +2,7 @@
 
 For PK1 stress, it has the definition that $$df=PK_1 \circ n_0 \cdot dA$$ on a give surface with respect to initial rest state.
 
-Meanwhile, $$dE = \arrow{df} \cdot \arrow{dx} $$
+Meanwhile, $$dE = \vec{df} \cdot \vec{dx} $$
 
 <!--
 # SPACE STYLE DRAGON SCENE ANIMATION
