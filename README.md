@@ -14,7 +14,7 @@ However, it should hold that $$[dL] = [dx],$$ thinking about the surface deforma
 
 So $$[\frac{\partial F}{\partial x}] = \frac{[dx]}{\vec{dx}\cdot\vec{L_0}}.$$
 
-When $$dV_0/dA_0 = |L_0| ~~~~ ([L_0]=|L_0|[n_0]$$ so that it gives correct volume), only if $$[dx]$$ in the same direction as $$[n_0]$$ can (1) holds,  think about why?
+When $$dV_0/dA_0 = |L_0| ~~~~ ([L_0]=|L_0|[n_0]$$ so that it gives correct volume), only if $$[dx]$$ in the same direction as $$[n_0]$$ can (1) holds,  think about why? One cue might be that the surface direction can be chosen arbitrarily, but solely for $$dE=\vec{df}\cdot\vec{dx}$$ has no indication for surface direction (the same force and displacement can resulte the same amount of work regardless which surface direction it is rotated), then it is somehow specific.
 
 
 
