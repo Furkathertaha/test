@@ -14,7 +14,7 @@ However, it should hold that $$[dL] = [dx],$$ thinking about the surface deforma
 
 So $$[\frac{\partial F}{\partial x}] = \frac{[dx]}{\vec{dx}\cdot\vec{L_0}}.$$
 
-Only if $$[dx] in the same direction as [L_0] can (1) holds, think about why?$$
+Only if $$[dx]$$ in the same direction as $$[L_0]$$ can (1) holds, think about why?
 
 
 
