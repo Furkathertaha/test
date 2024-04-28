@@ -4,7 +4,7 @@ For PK1 stress, it has the definition that $$[df]=[PK_1] \circ [n_0] \cdot dA_0$
 
 Meanwhile, for the same surface, $$dE = \vec{df} \cdot \vec{dx},$$ so $$[df] = [\frac{\partial E}{\partial F}] \circ [\frac{\partial F}{\partial x}]=dV_0 \cdot [PK_1] \circ [\frac{\partial F}{\partial x}].$$
 
-Does $$[n_0] \cdot dA_0 = dV_0 [\frac{\partial F}{\partial x}] $$  ~~ (1)?
+Does $$[n_0] \cdot dA_0 = dV_0 [\frac{\partial F}{\partial x}] ~~~~ (1)?$$
 
 $$[L]=[F][L_0] ~~ and ~~ [L']=[F'][L_0] \rightarrow [dL]=[dF][L_0]$$
 
