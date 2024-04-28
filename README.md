@@ -6,7 +6,7 @@ Meanwhile, for the same surface, $$dE = \vec{df} \cdot \vec{dx},$$ so $$[df] = [
 
 Does $$[n_0] \cdot dA_0 = V_0 [\frac{\partial F}{\partial x}] $$?
 
-$$[L]=[F][L_0] ~~and~~ [L']=[F'][L_0] \rightarrow [dL]=[dF][L_0]$$
+$$[L]=[F][L_0] ~~ and ~~ [L']=[F'][L_0] \rightarrow [dL]=[dF][L_0]$$
 
 $$[dL]=[dF][L_0]=[\frac{\partial F}{\partial x}][dx]^\mathsf{T}[L_0]$$
 
