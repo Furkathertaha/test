@@ -1,3 +1,8 @@
+# Games201 Notes
+
+For PK1 stress, it has the definition that $$df=PK_1 \circ n_0 \cdot dA$$
+
+<!--
 # SPACE STYLE DRAGON SCENE ANIMATION
 
 A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed via Three.js. 
@@ -12,6 +17,7 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 <!-- [License](#license) -->
 <!-- [Acknowledgements](#acknowledgements) -->
 
+<!--
 ## Features
 
 - webGL-based 3D rendering
@@ -82,3 +88,4 @@ A WebGL-based Chinese dragon animation with STL loader and GLSL shader imposed v
 -Screen Shots:
 
 &emsp; &emsp;  &emsp; &emsp; <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l2.png" alt="demo3" width="400" />  `     `   <img src="https://github.com/Furkathertaha/personal_cdn/blob/main/l1.png" alt="demo4" width="400"  />
+-->
