@@ -9,7 +9,9 @@ where $$\mathbf{C}_p^n = \mathbf{B}_p^n \left( \mathbf{D}_p^n \right)^{-1}$$ and
 $$ \mathbf{D} _p^n = \sum _{i} w _{ip}^n \left( \mathbf{x}_i - \mathbf{x}_p \right) \left( \mathbf{x}_i - \mathbf{x}_p \right)^T $$
 
 and is derived by preserving affine motion during the transfers. The corresponding transfer from the grid back to particles is
-$$ \mathbf{B}_p^{n+1} = \sum_{i} w_{ip}^{n+1} \mathbf{v}_i^n \left( \mathbf{x}_i - \mathbf{x}_p \right)^T. \quad (10) $$
+
+$$ \mathbf{B} _p^{n+1} = \sum _{i} w _{ip}^{n+1} \mathbf{v}_i^n \left( \mathbf{x}_i - \mathbf{x}_p \right)^T. \quad (10) $$
+
 
 <!--
 # Games201 Notes
