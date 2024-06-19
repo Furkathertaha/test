@@ -2,7 +2,7 @@
 
 The transfer from particles to grid is motivated analogously to the piecewise rigid case and is of the form
 
-$$ m_i \mathbf{v}_i = $$
+$$ m_i \mathbf{v}_i = \sum _{p} $$
 
 $$ m_i \mathbf{v}_i = \sum_{p} w_{ip}^n m_p \left( \mathbf{v}_p^n + \mathbf{B}_p^n \left( \mathbf{D}_p^n \right)^{-1} \left( \mathbf{x}_i - \mathbf{x}_p \right) \right), \quad (8) $$
 where $\mathbf{C}_p^n = \mathbf{B}_p^n \left( \mathbf{D}_p^n \right)^{-1}$ and $\mathbf{D}_p^n$ is analogous to an inertia tensor. $\mathbf{D}_p^n$ is given by
