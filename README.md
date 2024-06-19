@@ -10,7 +10,7 @@ $$ \mathbf{D} _p^n = \sum _{i} w _{ip}^n \left( \mathbf{x}_i - \mathbf{x}_p^n \r
 
 and is derived by preserving affine motion during the transfers. The corresponding transfer from the grid back to particles is
 
-$$ \mathbf{B} _p^{n+1} = \sum _{i} w _{ip}^{n+1} \mathbf{v}_i^n \left( \mathbf{x}_i - \mathbf{x}_p \right)^T. \quad (10) $$
+$$ \mathbf{B} _p^{n+1} = \sum _{i} w _{ip}^{n} \mathbf{\tilt{v}}_i^{n+1} \left( \mathbf{x}_i - \mathbf{x}_p^n \right)^T. \quad (10) $$
 
 
 <!--
